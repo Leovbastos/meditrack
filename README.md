@@ -6,7 +6,7 @@
 **Curso:** Análise e Desenvolvimento de Sistemas  
 **Disciplina:** Engenharia de Software  
 **Professor:** Diógenes Carvalho Matias  
-**Integrante:** Leonardo (RA 1352315098)
+**Integrante:** Leonardo Vasconcelos Bastos (RA 1352315098)
 
 ---
 
