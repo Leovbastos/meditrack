@@ -71,7 +71,6 @@ Os documentos do projeto estão organizados nas pastas:
 
 ## Como acessar o projeto  
 O projeto está publicado no GitHub:  
-[link do seu repositório]
 
 ---
 
