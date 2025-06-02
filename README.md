@@ -19,30 +19,32 @@ Diógenes Carvalho Matias
 
 ---
 
-## Sumário  
-1. Introdução e Justificativa do Projeto
-2. Documento de Requisitos
-  2.1 Requisitos Funcionais
-  2.2 Requisitos Não Funcionais
-3. Documento de Casos de Uso
-4. Diagramas
-  4.1 Diagrama Entidade-Relacionamento (ER)
-  4.2 Diagrama Lógico
-  4.3 Diagrama Físico
-5. Documentação de Testes
-  5.1 Plano de Testes
-  5.2 Casos de Teste
-  5.3 Critérios de Aceitação
-6. Documentação de Segurança
-  6.1 Autenticação e Autorização
-  6.2 Criptografia
-  6.3 Armazenamento Seguro
-  6.4 Proteção contra Ameaças
-  6.5 Conformidade com LGPD
-7. Publicação no GitHub
-  7.1 Estrutura do Repositório
-  7.2 README.md
-  7.3 Upload de Documentação
+## Sumário
+
+- [Introdução e Justificativa do Projeto](#introducao-e-justificativa-do-projeto)
+- [Documento de Requisitos](#documento-de-requisitos)
+  - [Requisitos Funcionais](#requisitos-funcionais)
+  - [Requisitos Não Funcionais](#requisitos-nao-funcionais)
+- [Documento de Casos de Uso](#documento-de-casos-de-uso)
+- [Diagramas](#diagramas)
+  - [Diagrama Entidade-Relacionamento (ER)](#diagrama-entidade-relacionamento-er)
+  - [Diagrama Lógico](#diagrama-logico)
+  - [Diagrama Físico](#diagrama-fisico)
+- [Documentação de Testes](#documentacao-de-testes)
+  - [Plano de Testes](#plano-de-testes)
+  - [Casos de Teste](#casos-de-teste)
+  - [Critérios de Aceitação](#criterios-de-aceitacao)
+- [Documentação de Segurança](#documentacao-de-seguranca)
+  - [Autenticação e Autorização](#autenticacao-e-autorizacao)
+  - [Criptografia](#criptografia)
+  - [Armazenamento Seguro](#armazenamento-seguro)
+  - [Proteção contra Ameaças](#protecao-contra-ameacas)
+  - [Conformidade com LGPD](#conformidade-com-lgpd)
+- [Publicação no GitHub](#publicacao-no-github)
+  - [Estrutura do Repositório](#estrutura-do-repositorio)
+  - [README.md](#readmemd)
+  - [Upload de Documentação](#upload-de-documentacao)
+
 
 
 
